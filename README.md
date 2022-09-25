@@ -1,3 +1,0 @@
-# APIs
-
-- Trabalhando com APIs
